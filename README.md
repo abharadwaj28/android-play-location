@@ -1,4 +1,4 @@
-Google Play Location Samples
+iGoogle Play Location Samples
 ============================
 
 Samples that use
